@@ -1,2 +1,6 @@
 # hello-world
-I'm in &lt;https://guides.github.com/activities/hello-world/>
+
+Hi Humans!
+I'm nosilv.
+I'm learning about anything I want to learn.
+I want the tacos that Hubot mentioned.
